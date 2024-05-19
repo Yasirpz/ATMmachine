@@ -1,5 +1,5 @@
 # ATMmachine
-ATM Machine Simulator
+ATM MACHINE SIMULATOR 
 
 This is a simple ATM machine simulator written in Java. It allows users to:
 
