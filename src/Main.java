@@ -10,7 +10,7 @@ class atm {
     float balance;
     int PIN = 5627;
     public void checkPin() {
-        System.out.println(" wellcome to HBL atm \n Insert you card .");
+        System.out.println(" welcome to HBL atm \n Insert you card .");
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter your pin");
         int checkingpin = sc.nextInt();
